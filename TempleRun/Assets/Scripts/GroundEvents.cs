@@ -5,7 +5,6 @@ using UnityEngine;
 public class GroundEvents : MonoBehaviour
 {
     public GameObject groundTilePrefab;
-
     Vector3 nextSpawnPoint;
 
     public void spawnTile()
